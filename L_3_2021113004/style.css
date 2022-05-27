@@ -1,0 +1,37 @@
+
+.class_1 {
+    color: darkmagenta;
+    text-align: center;
+    tab-size: 6;
+}
+.tab {
+    tab-size: 6;
+}
+
+.center {
+    text-align: center;
+    color: palevioletred;
+}
+.center_1 {
+    color: palevioletred;
+}
+body {
+    background-color: black;
+}
+
+.text {
+    text-align: center;
+    font-size:larger;
+    color: white;
+}
+.text_2 {
+    font-style: normal;
+    color: white;
+}
+.cent {
+    text-align: center;
+}
+
+.font {
+    font-size: large;
+}
